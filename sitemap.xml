@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://csittutor.github.io/</loc>
+  <lastmod>2023-01-26T19:05:16+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://csittutor.github.io/about/</loc>
+  <lastmod>2023-01-26T19:05:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://csittutor.github.io/contact/</loc>
+  <lastmod>2023-01-26T19:05:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://csittutor.github.io/first-semester/</loc>
+  <lastmod>2023-01-26T19:05:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://csittutor.github.io/second-semester/</loc>
+  <lastmod>2023-01-26T19:05:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://csittutor.github.io/third-semester/</loc>
+  <lastmod>2023-01-26T19:05:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://csittutor.github.io/fourth-semester/</loc>
+  <lastmod>2023-01-26T19:05:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://csittutor.github.io/fifth-semester/</loc>
+  <lastmod>2023-01-26T19:05:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://csittutor.github.io/sixth-semester/</loc>
+  <lastmod>2023-01-26T19:05:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://csittutor.github.io/first-semester/introduction-to-information-technology/</loc>
+  <lastmod>2023-01-26T19:05:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://csittutor.github.io/first-semester/c-programming/</loc>
+  <lastmod>2023-01-26T19:05:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://csittutor.github.io/first-semester/digital-logic/</loc>
+  <lastmod>2023-01-26T19:05:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://csittutor.github.io/first-semester/mathematics/</loc>
+  <lastmod>2023-01-26T19:05:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://csittutor.github.io/first-semester/physics/</loc>
+  <lastmod>2023-01-26T19:05:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://csittutor.github.io/second-semester/discrete-structure/</loc>
+  <lastmod>2023-01-26T19:05:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://csittutor.github.io/second-semester/object-oriented-programming/</loc>
+  <lastmod>2023-01-26T19:05:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://csittutor.github.io/second-semester/microprocessor/</loc>
+  <lastmod>2023-01-26T19:05:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://csittutor.github.io/second-semester/mathematics/</loc>
+  <lastmod>2023-01-26T19:05:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://csittutor.github.io/second-semester/statistics/</loc>
+  <lastmod>2023-01-26T19:05:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://csittutor.github.io/third-semester/data-structure-and-algorithms/</loc>
+  <lastmod>2023-01-26T19:05:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://csittutor.github.io/third-semester/numerical-method/</loc>
+  <lastmod>2023-01-26T19:05:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://csittutor.github.io/third-semester/computer-architecture/</loc>
+  <lastmod>2023-01-26T19:05:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://csittutor.github.io/third-semester/computer-graphics/</loc>
+  <lastmod>2023-01-26T19:05:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://csittutor.github.io/third-semester/statistics/</loc>
+  <lastmod>2023-01-26T19:05:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://csittutor.github.io/fourth-semester/theory-of-computation/</loc>
+  <lastmod>2023-01-26T19:05:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://csittutor.github.io/fourth-semester/computer-networks/</loc>
+  <lastmod>2023-01-26T19:05:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://csittutor.github.io/fourth-semester/operating-systems/</loc>
+  <lastmod>2023-01-26T19:05:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://csittutor.github.io/fourth-semester/database-management-systems/</loc>
+  <lastmod>2023-01-26T19:05:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://csittutor.github.io/fourth-semester/artificial-intelligence/</loc>
+  <lastmod>2023-01-26T19:05:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://csittutor.github.io/fifth-semester/design-and-analysis-of-algorithms/</loc>
+  <lastmod>2023-01-26T19:05:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://csittutor.github.io/fifth-semester/system-analysis-and-design/</loc>
+  <lastmod>2023-01-26T19:05:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://csittutor.github.io/fifth-semester/cryptography/</loc>
+  <lastmod>2023-01-26T19:05:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://csittutor.github.io/fifth-semester/simulation-and-modeling/</loc>
+  <lastmod>2023-01-26T19:05:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://csittutor.github.io/fifth-semester/web-technology/</loc>
+  <lastmod>2023-01-26T19:05:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://csittutor.github.io/fifth-semester/multimedia-computing/</loc>
+  <lastmod>2023-01-26T19:05:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://csittutor.github.io/fifth-semester/wireless-networking/</loc>
+  <lastmod>2023-01-26T19:05:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://csittutor.github.io/fifth-semester/image-processing/</loc>
+  <lastmod>2023-01-26T19:05:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://csittutor.github.io/fifth-semester/knowledge-management/</loc>
+  <lastmod>2023-01-26T19:05:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://csittutor.github.io/fifth-semester/society-and-ethics-in-it/</loc>
+  <lastmod>2023-01-26T19:05:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://csittutor.github.io/fifth-semester/microprocessor-based-design/</loc>
+  <lastmod>2023-01-26T19:05:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://csittutor.github.io/sixth-semester/software-engineering/</loc>
+  <lastmod>2023-01-26T19:05:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://csittutor.github.io/sixth-semester/compiler-design-and-construction/</loc>
+  <lastmod>2023-01-26T19:05:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://csittutor.github.io/sixth-semester/e-governance/</loc>
+  <lastmod>2023-01-26T19:05:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://csittutor.github.io/sixth-semester/net-centric-computing/</loc>
+  <lastmod>2023-01-26T19:05:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://csittutor.github.io/sixth-semester/technical-writing/</loc>
+  <lastmod>2023-01-26T19:05:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://csittutor.github.io/sixth-semester/applied-logic/</loc>
+  <lastmod>2023-01-26T19:05:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://csittutor.github.io/sixth-semester/e-commerce/</loc>
+  <lastmod>2023-01-26T19:05:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://csittutor.github.io/sixth-semester/automation-and-robotics/</loc>
+  <lastmod>2023-01-26T19:05:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://csittutor.github.io/sixth-semester/neural-networks/</loc>
+  <lastmod>2023-01-26T19:05:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://csittutor.github.io/sixth-semester/computer-hardware-design/</loc>
+  <lastmod>2023-01-26T19:05:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://csittutor.github.io/sixth-semester/cognitive-science/</loc>
+  <lastmod>2023-01-26T19:05:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
