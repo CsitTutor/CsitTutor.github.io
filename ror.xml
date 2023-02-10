@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for https://csittutor.github.io/</title>
+  <link>https://csittutor.github.io/</link>
+
+<item>
+     <link>https://csittutor.github.io/</link>
+     <title> CSIT Tutor: Notes, Old Questions, Solutions and Syllabus </title>
+     <description>CSIT Tutor is a web and mobile application which provides complete set of reference materials such as notes, past question papers, syllabus and more for B.Sc...</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csittutor.github.io/about/</link>
+     <title> About CSIT Tutor </title>
+     <description>CSIT Tutor helps B.Sc. CSIT students by providing lecture notes, reference materials, collection of old question papers and their solutions, syllabus and mic...</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csittutor.github.io/contact/</link>
+     <title> Contact - CSIT Tutor </title>
+     <description>Feel free to drop your message to CSIT Tutor. Our team will respond back to you as soon as possible.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csittutor.github.io/first-semester/</link>
+     <title> First Semester - Notes, Old Questions &amp; More | CSIT Tutor </title>
+     <description>Download B.Sc. CSIT First Semester Notes, Old Questions, Old Question Solutions, Syllabus, Microsyllabus, Model Question, Lab Sheets</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csittutor.github.io/second-semester/</link>
+     <title> Second Semester - Notes, Old Questions &amp; More | CSIT Tutor </title>
+     <description>Download B.Sc. CSIT Second Semester Notes, Old Questions, Old Question Solutions, Syllabus, Microsyllabus, Model Question, Lab Sheets</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csittutor.github.io/third-semester/</link>
+     <title> Third Semester - Notes, Old Questions &amp; More | CSIT Tutor </title>
+     <description>Download B.Sc. CSIT Third Semester Notes, Old Questions, Old Question Solutions, Syllabus, Microsyllabus, Model Question, Lab Sheets</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csittutor.github.io/fourth-semester/</link>
+     <title> Fourth Semester - Notes, Old Questions &amp; More | CSIT Tutor </title>
+     <description>Download B.Sc. CSIT Fourth Semester Notes, Old Questions, Old Question Solutions, Syllabus, Microsyllabus, Model Question, Lab Sheets</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csittutor.github.io/fifth-semester/</link>
+     <title> Fifth Semester - Notes, Old Questions &amp; More | CSIT Tutor </title>
+     <description>Download B.Sc. CSIT Fifth Semester Notes, Old Questions, Old Question Solutions, Syllabus, Microsyllabus, Model Question, Lab Sheets</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csittutor.github.io/sixth-semester/</link>
+     <title> Sixth Semester - Notes, Old Questions &amp; More | CSIT Tutor </title>
+     <description>Download B.Sc. CSIT Sixth Semester Notes, Old Questions, Old Question Solutions, Syllabus, Microsyllabus, Model Question, Lab Sheets</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csittutor.github.io/first-semester/introduction-to-information-technology/</link>
+     <title> Introduction to Information Technology - Notes, Old Questions &amp; More </title>
+     <description>Download B.Sc. CSIT Introduction to Information Technology Notes, Old Questions, Old Question Solutions, Syllabus, Microsyllabus, Model Question, Lab Sheets</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csittutor.github.io/first-semester/c-programming/</link>
+     <title> C Programming - Notes, Old Questions &amp; More | CSIT Tutor </title>
+     <description>Download B.Sc. CSIT C Programming Notes, Old Questions, Old Question Solutions, Syllabus, Microsyllabus, Model Question, Lab Sheets</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csittutor.github.io/first-semester/digital-logic/</link>
+     <title> Digital Logic - Notes, Old Questions &amp; More | CSIT Tutor </title>
+     <description>Download B.Sc. CSIT Digital Logic Notes, Old Questions, Old Question Solutions, Syllabus, Microsyllabus, Model Question, Lab Sheets</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csittutor.github.io/first-semester/mathematics/</link>
+     <title> Mathematics I - Notes, Old Questions &amp; More | CSIT Tutor </title>
+     <description>Download B.Sc. CSIT Mathematics I Notes, Old Questions, Old Question Solutions, Syllabus, Microsyllabus, Model Question, Lab Sheets</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csittutor.github.io/first-semester/physics/</link>
+     <title> Physics - Notes, Old Questions &amp; More | CSIT Tutor </title>
+     <description>Download B.Sc. CSIT Physics Notes, Old Questions, Old Question Solutions, Syllabus, Microsyllabus, Model Question, Lab Sheets</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csittutor.github.io/second-semester/discrete-structure/</link>
+     <title> Discrete Structure - Notes, Old Questions &amp; More | CSIT Tutor </title>
+     <description>Download B.Sc. CSIT Discrete Structure Notes, Old Questions, Old Question Solutions, Syllabus, Microsyllabus, Model Question, Lab Sheets</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csittutor.github.io/second-semester/object-oriented-programming/</link>
+     <title> Object Oriented Programming - Notes, Old Questions &amp; More </title>
+     <description>Download B.Sc. CSIT Object Oriented Programming Notes, Old Questions, Old Question Solutions, Syllabus, Microsyllabus, Model Question, Lab Sheets</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csittutor.github.io/second-semester/microprocessor/</link>
+     <title> Microprocessor - Notes, Old Questions &amp; More | CSIT Tutor </title>
+     <description>Download B.Sc. CSIT Microprocessor Notes, Old Questions, Old Question Solutions, Syllabus, Microsyllabus, Model Question, Lab Sheets</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csittutor.github.io/second-semester/mathematics/</link>
+     <title> Mathematics II - Notes, Old Questions &amp; More | CSIT Tutor </title>
+     <description>Download B.Sc. CSIT Mathematics II Notes, Old Questions, Old Question Solutions, Syllabus, Microsyllabus, Model Question, Lab Sheets</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csittutor.github.io/second-semester/statistics/</link>
+     <title> Statistics I - Notes, Old Questions &amp; More | CSIT Tutor </title>
+     <description>Download B.Sc. CSIT Statistics I Notes, Old Questions, Old Question Solutions, Syllabus, Microsyllabus, Model Question, Lab Sheets</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csittutor.github.io/third-semester/data-structure-and-algorithms/</link>
+     <title> Data Structure and Algorithms - Notes, Old Questions &amp; More </title>
+     <description>Download B.Sc. CSIT Data Structure and Algorithms Notes, Old Questions, Old Question Solutions, Syllabus, Microsyllabus, Model Question, Lab Sheets</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csittutor.github.io/third-semester/numerical-method/</link>
+     <title> Numerical Method - Notes, Old Questions &amp; More | CSIT Tutor </title>
+     <description>Download B.Sc. CSIT Numerical Method Notes, Old Questions, Old Question Solutions, Syllabus, Microsyllabus, Model Question, Lab Sheets</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csittutor.github.io/third-semester/computer-architecture/</link>
+     <title> Computer Architecture - Notes, Old Questions &amp; More | CSIT Tutor </title>
+     <description>Download B.Sc. CSIT Computer Architecture Notes, Old Questions, Old Question Solutions, Syllabus, Microsyllabus, Model Question, Lab Sheets</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csittutor.github.io/third-semester/computer-graphics/</link>
+     <title> Computer Graphics - Notes, Old Questions &amp; More | CSIT Tutor </title>
+     <description>Download B.Sc. CSIT Computer Graphics Notes, Old Questions, Old Question Solutions, Syllabus, Microsyllabus, Model Question, Lab Sheets</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csittutor.github.io/third-semester/statistics/</link>
+     <title> Statistics II - Notes, Old Questions &amp; More | CSIT Tutor </title>
+     <description>Download B.Sc. CSIT Statistics II Notes, Old Questions, Old Question Solutions, Syllabus, Microsyllabus, Model Question, Lab Sheets</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csittutor.github.io/fourth-semester/theory-of-computation/</link>
+     <title> Theory of Computation - Notes, Old Questions &amp; More | CSIT Tutor </title>
+     <description>Download B.Sc. CSIT Theory of Computation Notes, Old Questions, Old Question Solutions, Syllabus, Microsyllabus, Model Question, Lab Sheets</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csittutor.github.io/fourth-semester/computer-networks/</link>
+     <title> Computer Networks - Notes, Old Questions &amp; More | CSIT Tutor </title>
+     <description>Download B.Sc. CSIT Computer Networks Notes, Old Questions, Old Question Solutions, Syllabus, Microsyllabus, Model Question, Lab Sheets</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csittutor.github.io/fourth-semester/operating-systems/</link>
+     <title> Operating Systems - Notes, Old Questions &amp; More | CSIT Tutor </title>
+     <description>Download B.Sc. CSIT Operating Systems Notes, Old Questions, Old Question Solutions, Syllabus, Microsyllabus, Model Question, Lab Sheets</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csittutor.github.io/fourth-semester/database-management-systems/</link>
+     <title> Database Management System - Notes, Old Questions &amp; More </title>
+     <description>Download B.Sc. CSIT Database Management System Notes, Old Questions, Old Question Solutions, Syllabus, Microsyllabus, Model Question, Lab Sheets</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csittutor.github.io/fourth-semester/artificial-intelligence/</link>
+     <title> Artificial Intelligence - Notes, Old Questions &amp; More | CSIT Tutor </title>
+     <description>Download B.Sc. CSIT Artificial Intelligence Notes, Old Questions, Old Question Solutions, Syllabus, Microsyllabus, Model Question, Lab Sheets</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csittutor.github.io/fifth-semester/design-and-analysis-of-algorithms/</link>
+     <title> Design and Analysis of Algorithms - Notes, Old Questions &amp; More </title>
+     <description>Download B.Sc. CSIT Design and Analysis of Algorithms Notes, Old Questions, Old Question Solutions, Syllabus, Microsyllabus, Model Question, Lab Sheets</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csittutor.github.io/fifth-semester/system-analysis-and-design/</link>
+     <title> System Analysis and Design - Notes, Old Questions &amp; More | CSIT Tutor </title>
+     <description>Download B.Sc. CSIT System Analysis and Design Notes, Old Questions, Old Question Solutions, Syllabus, Microsyllabus, Model Question, Lab Sheets</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csittutor.github.io/fifth-semester/cryptography/</link>
+     <title> Cryptography - Notes, Old Questions &amp; More | CSIT Tutor </title>
+     <description>Download B.Sc. CSIT Cryptography Notes, Old Questions, Old Question Solutions, Syllabus, Microsyllabus, Model Question, Lab Sheets</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csittutor.github.io/fifth-semester/simulation-and-modeling/</link>
+     <title> Simulation and Modeling - Notes, Old Questions &amp; More | CSIT Tutor </title>
+     <description>Download B.Sc. CSIT Simulation and Modeling Notes, Old Questions, Old Question Solutions, Syllabus, Microsyllabus, Model Question, Lab Sheets</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csittutor.github.io/fifth-semester/web-technology/</link>
+     <title> Web Technology - Notes, Old Questions &amp; More | CSIT Tutor </title>
+     <description>Download B.Sc. CSIT Web Technology Notes, Old Questions, Old Question Solutions, Syllabus, Microsyllabus, Model Question, Lab Sheets</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csittutor.github.io/fifth-semester/multimedia-computing/</link>
+     <title> Multimedia Computing - Notes, Old Questions &amp; More | CSIT Tutor </title>
+     <description>Download B.Sc. CSIT Multimedia Computing Notes, Old Questions, Old Question Solutions, Syllabus, Microsyllabus, Model Question, Lab Sheets</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csittutor.github.io/fifth-semester/wireless-networking/</link>
+     <title> Wireless Networking - Notes, Old Questions &amp; More | CSIT Tutor </title>
+     <description>Download B.Sc. CSIT Wireless Networking Notes, Old Questions, Old Question Solutions, Syllabus, Microsyllabus, Model Question, Lab Sheets</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csittutor.github.io/fifth-semester/image-processing/</link>
+     <title> Image Processing - Notes, Old Questions &amp; More | CSIT Tutor </title>
+     <description>Download B.Sc. CSIT Image Processing Notes, Old Questions, Old Question Solutions, Syllabus, Microsyllabus, Model Question, Lab Sheets</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csittutor.github.io/fifth-semester/knowledge-management/</link>
+     <title> Knowledge Management - Notes, Old Questions &amp; More | CSIT Tutor </title>
+     <description>Download B.Sc. CSIT Knowledge Management Notes, Old Questions, Old Question Solutions, Syllabus, Microsyllabus, Model Question, Lab Sheets</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csittutor.github.io/fifth-semester/society-and-ethics-in-it/</link>
+     <title> Society and Ethics in IT - Notes, Old Questions &amp; More | CSIT Tutor </title>
+     <description>Download B.Sc. CSIT Society and Ethics in IT Notes, Old Questions, Old Question Solutions, Syllabus, Microsyllabus, Model Question, Lab Sheets</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csittutor.github.io/fifth-semester/microprocessor-based-design/</link>
+     <title> Microprocessor Based Design - Notes, Old Questions &amp; More | CSIT Tutor </title>
+     <description>Download B.Sc. CSIT Microprocessor Based Design Notes, Old Questions, Old Question Solutions, Syllabus, Microsyllabus, Model Question, Lab Sheets</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csittutor.github.io/sixth-semester/software-engineering/</link>
+     <title> Software Engineering - Notes, Old Questions &amp; More | CSIT Tutor </title>
+     <description>Download B.Sc. CSIT Software Engineering Notes, Old Questions, Old Question Solutions, Syllabus, Microsyllabus, Model Question, Lab Sheets</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csittutor.github.io/sixth-semester/compiler-design-and-construction/</link>
+     <title> Compiler Design and Construction - Notes, Old Questions &amp; More | CSIT Tutor </title>
+     <description>Download B.Sc. CSIT Compiler Design and Construction Notes, Old Questions, Old Question Solutions, Syllabus, Microsyllabus, Model Question, Lab Sheets</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csittutor.github.io/sixth-semester/e-governance/</link>
+     <title> E-Governance - Notes, Old Questions &amp; More | CSIT Tutor </title>
+     <description>Download B.Sc. CSIT E-Governance Notes, Old Questions, Old Question Solutions, Syllabus, Microsyllabus, Model Question, Lab Sheets</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csittutor.github.io/sixth-semester/net-centric-computing/</link>
+     <title> NET Centric Computing - Notes, Old Questions &amp; More | CSIT Tutor </title>
+     <description>Download B.Sc. CSIT NET Centric Computing Notes, Old Questions, Old Question Solutions, Syllabus, Microsyllabus, Model Question, Lab Sheets</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csittutor.github.io/sixth-semester/technical-writing/</link>
+     <title> Technical Writing - Notes, Old Questions &amp; More | CSIT Tutor </title>
+     <description>Download B.Sc. CSIT Technical Writing Notes, Old Questions, Old Question Solutions, Syllabus, Microsyllabus, Model Question, Lab Sheets</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csittutor.github.io/sixth-semester/applied-logic/</link>
+     <title> Applied Logic - Notes, Old Questions &amp; More | CSIT Tutor </title>
+     <description>Download B.Sc. CSIT Applied Logic Notes, Old Questions, Old Question Solutions, Syllabus, Microsyllabus, Model Question, Lab Sheets</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csittutor.github.io/sixth-semester/e-commerce/</link>
+     <title> E-commerce - Notes, Old Questions &amp; More | CSIT Tutor </title>
+     <description>Download B.Sc. CSIT E-commerce Notes, Old Questions, Old Question Solutions, Syllabus, Microsyllabus, Model Question, Lab Sheets</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csittutor.github.io/sixth-semester/automation-and-robotics/</link>
+     <title> Automation and Robotics - Notes, Old Questions &amp; More | CSIT Tutor </title>
+     <description>Download B.Sc. CSIT Automation and Robotics Notes, Old Questions, Old Question Solutions, Syllabus, Microsyllabus, Model Question, Lab Sheets</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csittutor.github.io/sixth-semester/neural-networks/</link>
+     <title> Neural Networks - Notes, Old Questions &amp; More | CSIT Tutor </title>
+     <description>Download B.Sc. CSIT Neural Networks Notes, Old Questions, Old Question Solutions, Syllabus, Microsyllabus, Model Question, Lab Sheets</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csittutor.github.io/sixth-semester/computer-hardware-design/</link>
+     <title> Computer Hardware Design - Notes, Old Questions &amp; More | CSIT Tutor </title>
+     <description>Download B.Sc. CSIT Computer Hardware Design Notes, Old Questions, Old Question Solutions, Syllabus, Microsyllabus, Model Question, Lab Sheets</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csittutor.github.io/sixth-semester/cognitive-science/</link>
+     <title> Cognitive Science - Notes, Old Questions &amp; More | CSIT Tutor </title>
+     <description>Download B.Sc. CSIT Cognitive Science Notes, Old Questions, Old Question Solutions, Syllabus, Microsyllabus, Model Question, Lab Sheets</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
