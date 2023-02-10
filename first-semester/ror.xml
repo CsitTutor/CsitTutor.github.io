@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for https://csittutor.github.io/first-semester/</title>
+  <link>https://csittutor.github.io/first-semester/</link>
+
+<item>
+     <link>https://csittutor.github.io/first-semester/</link>
+     <title> First Semester - Notes, Old Questions &amp; More | CSIT Tutor </title>
+     <description>Download B.Sc. CSIT First Semester Notes, Old Questions, Old Question Solutions, Syllabus, Microsyllabus, Model Question, Lab Sheets</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csittutor.github.io/first-semester/introduction-to-information-technology/</link>
+     <title> Introduction to Information Technology - Notes, Old Questions &amp; More </title>
+     <description>Download B.Sc. CSIT Introduction to Information Technology Notes, Old Questions, Old Question Solutions, Syllabus, Microsyllabus, Model Question, Lab Sheets</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csittutor.github.io/first-semester/c-programming/</link>
+     <title> C Programming - Notes, Old Questions &amp; More | CSIT Tutor </title>
+     <description>Download B.Sc. CSIT C Programming Notes, Old Questions, Old Question Solutions, Syllabus, Microsyllabus, Model Question, Lab Sheets</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csittutor.github.io/first-semester/digital-logic/</link>
+     <title> Digital Logic - Notes, Old Questions &amp; More | CSIT Tutor </title>
+     <description>Download B.Sc. CSIT Digital Logic Notes, Old Questions, Old Question Solutions, Syllabus, Microsyllabus, Model Question, Lab Sheets</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csittutor.github.io/first-semester/mathematics/</link>
+     <title> Mathematics I - Notes, Old Questions &amp; More | CSIT Tutor </title>
+     <description>Download B.Sc. CSIT Mathematics I Notes, Old Questions, Old Question Solutions, Syllabus, Microsyllabus, Model Question, Lab Sheets</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://csittutor.github.io/first-semester/physics/</link>
+     <title> Physics - Notes, Old Questions &amp; More | CSIT Tutor </title>
+     <description>Download B.Sc. CSIT Physics Notes, Old Questions, Old Question Solutions, Syllabus, Microsyllabus, Model Question, Lab Sheets</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
